@@ -68,12 +68,8 @@
     </a>
 </div>
 <!--- trophy (start) -->
-
-
 </p>        
 <!--- stats (end) -->
-
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -83,7 +79,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,docker,firebase,github,html,java,js,linux,mysql,nodejs,postman,py,react,redux,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,react,redux,tailwind,git,bootstrap,c,cpp,css,discord,docker,firebase,github,html,java,js,linux,mysql,nodejs,postman,py,vscode&perline=14" />
   </a>
 </p>
 
