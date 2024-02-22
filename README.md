@@ -33,7 +33,7 @@
 
 - 🌱 I’m currently learning **Efficient way of time management to handle multiple projects in very limited time**
 
-- ☁️ I've keen interest in Artificial intelligence. So,I'm planning to learn about **Machine Learning**
+- ☁️ I've keen interest in Artificial intelligence. So,I'm planning to learn **Machine Learning**
 
 - 💬 Ask me about **Laravel, React, MySQL**
 
