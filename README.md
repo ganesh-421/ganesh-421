@@ -4,6 +4,20 @@
 
 I'm an experienced developer specializing in crafting robust, scalable applications. With over 3.5 years of experience, I love working with modern web technologies and helping build solutions that make an impact.
 
+### 👨 My Github Activity
+
+---
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ganesh-421&show_icons=true&count_private=true&theme=tokyonight" alt="Ganesh Adhikari Stats" /> 
+</p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-421&theme=tokyonight" alt="Ganesh Adhikari Activities" /></p>
+</p>
+
+## ![](https://activity-graph.herokuapp.com/graph?username=shankarlmc&custom_title=Shankar%27s%20Contribution%20Graph&theme=react-dark)
+
+
 ### 🛠️ Tech Stack
 
 **Backend:**
@@ -56,20 +70,6 @@ I'm an experienced developer specializing in crafting robust, scalable applicati
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 👨 My Github Activity
-
----
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ganesh-421&show_icons=true&count_private=true&theme=tokyonight" alt="Ganesh Adhikari Stats" /> 
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-421&theme=tokyonight" alt="Ganesh Adhikari Activities" /></p>
-</p>
-
-## ![](https://activity-graph.herokuapp.com/graph?username=shankarlmc&custom_title=Shankar%27s%20Contribution%20Graph&theme=react-dark)
-
-
 ### 🌱 Currently Learning
 
 - Advanced Docker setups for scaling microservices
@@ -87,3 +87,5 @@ Check out my repositories for a variety of projects from Laravel systems, React 
 ### ⚡ Fun Fact
 
 When I’m not coding, you’ll find me exploring cybersecurity on Kali Linux or experimenting with new DevOps tools.
+
+
