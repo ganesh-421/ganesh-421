@@ -1,83 +1,75 @@
+# 👋 Hi, I'm Ganesh Adhikari (@ganesh-421)
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+🚀 **Full-Stack Developer | Laravel Expert | Open Source Enthusiast**
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Ganesh Adhikari</h1></summary>
-  </ul>
-</div>
+I'm an experienced developer specializing in crafting robust, scalable applications. With over 3.5 years of experience, I love working with modern web technologies and helping build solutions that make an impact.
 
+### 🛠️ Tech Stack
 
-<!--- snake -->
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganesh-421/ganesh-421/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganesh-421/ganesh-421/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ganesh-421/ganesh-421/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
+**Backend:**
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Programming is the art of turning imagination into reality, one line of code at a time.</h2></summary>
-  </ul>
-</div>
+**Frontend:**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-<!--Intro start-->
-- 🔭 I’m currently working on **Laravel, React, Livewire, MySQL, PostgreSQL, Restful Apis**
+**DevOps:**
 
-- 🌱 I’m currently learning **Efficient way of time management to handle multiple projects in very limited time**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-- ☁️ I've keen interest in Artificial intelligence. So,I'm planning to learn **Machine Learning**
+**Search:**
 
-- 💬 Ask me about **Laravel, React, MySQL**
+![Algolia](https://img.shields.io/badge/Algolia-5468FF?style=for-the-badge&logo=algolia&logoColor=white)
 
-- 📫 Feel free to reach me out **ganesh410adhikari@gmail.com**
-- 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,react,redux,tailwind,git,bootstrap,c,cpp,css,discord,docker,firebase,github,html,java,js,linux,mysql,nodejs,postman,py,vscode&perline=14" />
-  </a>
-</p>
+**Platforms & Tools:**
 
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+**Operating Systems:**
 
-<!--icons and links-->
-<p align="center">
-<a href="www.linkedin.com/in/ganesh-adhikari-3471ab19a" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/awiral_adhikari?igsh=dWtwenVmdnRqaHFw" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discord.com/users/874317953485651989" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
+**Cloud & Security:**
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=ganesh-421&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-  
-</div>
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**Programming Languages:**
 
-----------------------------------------------------------------------
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🌱 Currently Learning
+
+- Advanced Docker setups for scaling microservices
+- Mastering Cloudflare for web security and performance optimization
+
+### 📫 How to reach me
+
+- LinkedIn: [Ganesh Adhikari](https://www.linkedin.com/in/ganesh-adhikari-li) 
+- GitHub: [@ganesh-421](https://github.com/ganesh-421)
+
+### 🌐 Projects
+
+Check out my repositories for a variety of projects from Laravel systems, React applications to API integrations.
+
+### ⚡ Fun Fact
+
+When I’m not coding, you’ll find me exploring cybersecurity on Kali Linux or experimenting with new DevOps tools.
