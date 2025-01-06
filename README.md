@@ -4,20 +4,6 @@
 
 I'm an experienced developer specializing in crafting robust, scalable applications. With over 3.5 years of experience, I love working with modern web technologies and helping build solutions that make an impact.
 
-### 👨 My Github Activity
-
----
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ganesh-421&show_icons=true&count_private=true&theme=tokyonight" alt="Ganesh Adhikari Stats" /> 
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-421&theme=tokyonight" alt="Ganesh Adhikari Activities" /></p>
-</p>
-
-## ![](https://activity-graph.herokuapp.com/graph?username=shankarlmc&custom_title=Shankar%27s%20Contribution%20Graph&theme=react-dark)
-
-
 ### 🛠️ Tech Stack
 
 **Backend:**
@@ -95,6 +81,37 @@ I'm an experienced developer specializing in crafting robust, scalable applicati
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 👨 My Github Activity
+
+---
+
+<table align="center">
+    <tr>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=ganesh-421&show_icons=true&count_private=true&theme=tokyonight" alt="Ganesh Adhikari Stats" />
+        </td>
+        <td align="center">
+            <img src="https://streak-stats.demolab.com/?user=ganesh-421&theme=tokyonight" alt="Ganesh Adhikari Streaks" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganesh-421&theme=tokyo-night&hide_border=true" alt="Ganesh Adhikari Contribution Graph" />
+        </td>
+        <td align="center">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganesh-421&theme=tokyonight" alt="Ganesh Adhikari Profile Details" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://github-profile-trophy.vercel.app/?username=ganesh-421&theme=tokyonight&row=2&column=3" alt="Ganesh Adhikari Trophies" />
+        </td>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-421&layout=compact&theme=tokyonight" alt="Ganesh Adhikari Top Languages" />
+        </td>
+    </tr>
+</table>
 
 ### 🌱 Currently Learning
 
