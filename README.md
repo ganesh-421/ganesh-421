@@ -92,7 +92,7 @@ I'm an experienced developer specializing in crafting robust, scalable applicati
             <img src="https://github-readme-stats.vercel.app/api?username=ganesh-421&show_icons=true&count_private=true&theme=tokyonight" alt="Ganesh Adhikari Stats" />
         </td>
         <td align="center">
-            <img src="https://streak-stats.demolab.com/?user=ganesh-421&theme=tokyonight" alt="Ganesh Adhikari Streaks" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-421&theme=tokyonight" alt="Ganesh Adhikari Streak" /></p>
         </td>
     </tr>
     <tr>
