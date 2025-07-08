@@ -123,6 +123,7 @@ I'm an experienced developer specializing in crafting robust, scalable applicati
 
 - LinkedIn: [Ganesh Adhikari](https://www.linkedin.com/in/ganesh-adhikari-li) 
 - GitHub: [@ganesh-421](https://github.com/ganesh-421)
+- website: [Adhikari Ganesh Portfolio](https://adhikariganesh.com.np)
 
 ### 🌐 Projects
 
